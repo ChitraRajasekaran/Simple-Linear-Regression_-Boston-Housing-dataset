@@ -23,6 +23,9 @@ Features:
 14.	medv: median value of owner-occupied homes in terms of thousands of dollars ($1000s).
 
 Download 
-Boston Housing dataset
+Boston Housing dataset https://github.com/ChitraRajasekaran/Simple-Linear-Regression_-Boston-Housing-dataset/blob/master/Bostonhousing.txt
+
+Output Graphs of the Model
+
 
 
