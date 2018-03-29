@@ -25,7 +25,7 @@ Features:
 Download 
 Boston Housing dataset https://github.com/ChitraRajasekaran/Simple-Linear-Regression_-Boston-Housing-dataset/blob/master/Bostonhousing.txt
 
-Output Graphs of the Model
+Output Graphs of the Model https://github.com/ChitraRajasekaran/Simple-Linear-Regression_-Boston-Housing-dataset/blob/master/OUTPUT%20GRAPHS%20.docx
 
 
 
