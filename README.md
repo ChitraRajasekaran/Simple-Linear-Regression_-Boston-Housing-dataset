@@ -2,9 +2,9 @@
 
 Overview
 
-This dataset concerns housing values in Boston suburbs. It's based on the "Boston Housing Dataset" from University of California, Irvine, which in turn was taken from the StatLib library maintained at Carnegie Mellon University.
+This dataset concerns housing values in Boston suburbs. It's based on the "Boston Housing Dataset".
 
-The target is medv: median value of owner-occupied homes in terms of thousands of dollars ($1000s).
+The target variable is medv: median value of owner-occupied homes in terms of thousands of dollars ($1000s).
 
 Features:
 1.	crim: per-capita crime rate by town.
